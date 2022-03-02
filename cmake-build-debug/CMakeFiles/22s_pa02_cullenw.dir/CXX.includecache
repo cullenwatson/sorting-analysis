@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/Algo.h
+
+/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/main.cpp
+iostream
+-
+Algo.h
+/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/Algo.h
+
