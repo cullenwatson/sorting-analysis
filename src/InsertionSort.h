@@ -8,7 +8,7 @@
 
 class InsertionSort: public Sort {
 public:
-    void sort(int[], int);
+    void sort(int[], int, int);
 };
 
 
