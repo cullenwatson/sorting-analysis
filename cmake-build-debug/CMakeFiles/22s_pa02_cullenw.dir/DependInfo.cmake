@@ -1,24 +1,17 @@
-
-# Consider dependencies only in project.
-set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
-
 # The set of languages for which implicit dependencies are needed:
 set(CMAKE_DEPENDS_LANGUAGES
   "CXX"
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/Algo.cpp" "/Users/pc/Documents/GitHub/22s-pa02-cullenw/cmake-build-debug/CMakeFiles/22s_pa02_cullenw.dir/src/Algo.cpp.o"
-  "/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/main.cpp" "/Users/pc/Documents/GitHub/22s-pa02-cullenw/cmake-build-debug/CMakeFiles/22s_pa02_cullenw.dir/src/main.cpp.o"
+  "/mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/InsertionSort.cpp" "/mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/cmake-build-debug/CMakeFiles/22s_pa02_cullenw.dir/src/InsertionSort.cpp.o"
+  "/mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/QuickSort.cpp" "/mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/cmake-build-debug/CMakeFiles/22s_pa02_cullenw.dir/src/QuickSort.cpp.o"
+  "/mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/main.cpp" "/mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/cmake-build-debug/CMakeFiles/22s_pa02_cullenw.dir/src/main.cpp.o"
   )
-set(CMAKE_CXX_COMPILER_ID "AppleClang")
+set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
-  )
-
-# The set of dependency files which are needed:
-set(CMAKE_DEPENDS_DEPENDENCY_FILES
   )
 
 # Targets to which this target links.
