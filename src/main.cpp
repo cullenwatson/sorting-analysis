@@ -1,51 +1,36 @@
 #include <iostream>
 #include <cmath>
-#include "Sort.h"
-#include "QuickSort.h"
-#include "InsertionSort.h"
-#include "MergeSort.h"
-#include "ShellSort.h"
-#include "IntroSort.h"
-#include "TimSort.h"
+#include "Driver.h"
+#include <string>
 using namespace std;
 
-void sortArrays(Sort*);
+void sortArrays();
+void outputArray(string a[], int size);
 int main(int argc, char** argv) {
 
-
-    sortArrays(new TimSort());
+    sortArrays();
 
     return 0;
 }
 
-void sortArrays(Sort* driver){
-    const int SIZE = 20;
-    int* unsorted = new int[SIZE];
-
-    for(int i=0, j=SIZE; i<SIZE; i++, j--)
-        unsorted[i] = j;
+void sortArrays(){
+    const int SIZE = 5;
+    string array[SIZE] = {"z", "y", "x", "w","v"};
 
     cout << "UNSORTED\n";
-    for(int i=0; i<SIZE; i++)
-        cout << unsorted[i] << endl;
+    outputArray(array, SIZE);
 
-    // (QUICK/MERGE) driver->sort(unsorted, 0, SIZE-1);
-    // (INSERTION/SHELL) driver->sort(unsorted, SIZE);
-    //driver->sort(unsorted, 0, SIZE - 1);
-
-
-   // int depth = log(SIZE) * 2;
-//    IntroSort introSort;
-//    introSort.sort(unsorted,0,SIZE-1,0);
-
-    // tim sort
-    driver->sort(unsorted, SIZE);
-
+    Driver<string> driver;
+    driver.timSort(array, SIZE);
 
     // sorted
     cout << "\nSORTED\n";
-    for(int i=0; i<SIZE; i++)
-        cout << unsorted[i] << endl;
+    outputArray(array, SIZE);
+}
+void outputArray(string a[], int size){
+    for(int i=0; i<size; i++){
+        cout<<a[i]<<endl;
+    }
 }
 
 

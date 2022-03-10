@@ -70,107 +70,17 @@ CMakeFiles/22s_pa02_cullenw.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/22s_pa02_cullenw.dir/src/main.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/main.cpp -o CMakeFiles/22s_pa02_cullenw.dir/src/main.cpp.s
 
-CMakeFiles/22s_pa02_cullenw.dir/src/QuickSort.cpp.o: CMakeFiles/22s_pa02_cullenw.dir/flags.make
-CMakeFiles/22s_pa02_cullenw.dir/src/QuickSort.cpp.o: ../src/QuickSort.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/22s_pa02_cullenw.dir/src/QuickSort.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/22s_pa02_cullenw.dir/src/QuickSort.cpp.o -c /mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/QuickSort.cpp
-
-CMakeFiles/22s_pa02_cullenw.dir/src/QuickSort.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/22s_pa02_cullenw.dir/src/QuickSort.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/QuickSort.cpp > CMakeFiles/22s_pa02_cullenw.dir/src/QuickSort.cpp.i
-
-CMakeFiles/22s_pa02_cullenw.dir/src/QuickSort.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/22s_pa02_cullenw.dir/src/QuickSort.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/QuickSort.cpp -o CMakeFiles/22s_pa02_cullenw.dir/src/QuickSort.cpp.s
-
-CMakeFiles/22s_pa02_cullenw.dir/src/InsertionSort.cpp.o: CMakeFiles/22s_pa02_cullenw.dir/flags.make
-CMakeFiles/22s_pa02_cullenw.dir/src/InsertionSort.cpp.o: ../src/InsertionSort.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/22s_pa02_cullenw.dir/src/InsertionSort.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/22s_pa02_cullenw.dir/src/InsertionSort.cpp.o -c /mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/InsertionSort.cpp
-
-CMakeFiles/22s_pa02_cullenw.dir/src/InsertionSort.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/22s_pa02_cullenw.dir/src/InsertionSort.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/InsertionSort.cpp > CMakeFiles/22s_pa02_cullenw.dir/src/InsertionSort.cpp.i
-
-CMakeFiles/22s_pa02_cullenw.dir/src/InsertionSort.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/22s_pa02_cullenw.dir/src/InsertionSort.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/InsertionSort.cpp -o CMakeFiles/22s_pa02_cullenw.dir/src/InsertionSort.cpp.s
-
-CMakeFiles/22s_pa02_cullenw.dir/src/MergeSort.cpp.o: CMakeFiles/22s_pa02_cullenw.dir/flags.make
-CMakeFiles/22s_pa02_cullenw.dir/src/MergeSort.cpp.o: ../src/MergeSort.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/22s_pa02_cullenw.dir/src/MergeSort.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/22s_pa02_cullenw.dir/src/MergeSort.cpp.o -c /mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/MergeSort.cpp
-
-CMakeFiles/22s_pa02_cullenw.dir/src/MergeSort.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/22s_pa02_cullenw.dir/src/MergeSort.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/MergeSort.cpp > CMakeFiles/22s_pa02_cullenw.dir/src/MergeSort.cpp.i
-
-CMakeFiles/22s_pa02_cullenw.dir/src/MergeSort.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/22s_pa02_cullenw.dir/src/MergeSort.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/MergeSort.cpp -o CMakeFiles/22s_pa02_cullenw.dir/src/MergeSort.cpp.s
-
-CMakeFiles/22s_pa02_cullenw.dir/src/ShellSort.cpp.o: CMakeFiles/22s_pa02_cullenw.dir/flags.make
-CMakeFiles/22s_pa02_cullenw.dir/src/ShellSort.cpp.o: ../src/ShellSort.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/22s_pa02_cullenw.dir/src/ShellSort.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/22s_pa02_cullenw.dir/src/ShellSort.cpp.o -c /mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/ShellSort.cpp
-
-CMakeFiles/22s_pa02_cullenw.dir/src/ShellSort.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/22s_pa02_cullenw.dir/src/ShellSort.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/ShellSort.cpp > CMakeFiles/22s_pa02_cullenw.dir/src/ShellSort.cpp.i
-
-CMakeFiles/22s_pa02_cullenw.dir/src/ShellSort.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/22s_pa02_cullenw.dir/src/ShellSort.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/ShellSort.cpp -o CMakeFiles/22s_pa02_cullenw.dir/src/ShellSort.cpp.s
-
-CMakeFiles/22s_pa02_cullenw.dir/src/IntroSort.cpp.o: CMakeFiles/22s_pa02_cullenw.dir/flags.make
-CMakeFiles/22s_pa02_cullenw.dir/src/IntroSort.cpp.o: ../src/IntroSort.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/22s_pa02_cullenw.dir/src/IntroSort.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/22s_pa02_cullenw.dir/src/IntroSort.cpp.o -c /mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/IntroSort.cpp
-
-CMakeFiles/22s_pa02_cullenw.dir/src/IntroSort.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/22s_pa02_cullenw.dir/src/IntroSort.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/IntroSort.cpp > CMakeFiles/22s_pa02_cullenw.dir/src/IntroSort.cpp.i
-
-CMakeFiles/22s_pa02_cullenw.dir/src/IntroSort.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/22s_pa02_cullenw.dir/src/IntroSort.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/IntroSort.cpp -o CMakeFiles/22s_pa02_cullenw.dir/src/IntroSort.cpp.s
-
-CMakeFiles/22s_pa02_cullenw.dir/src/TimSort.cpp.o: CMakeFiles/22s_pa02_cullenw.dir/flags.make
-CMakeFiles/22s_pa02_cullenw.dir/src/TimSort.cpp.o: ../src/TimSort.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/22s_pa02_cullenw.dir/src/TimSort.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/22s_pa02_cullenw.dir/src/TimSort.cpp.o -c /mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/TimSort.cpp
-
-CMakeFiles/22s_pa02_cullenw.dir/src/TimSort.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/22s_pa02_cullenw.dir/src/TimSort.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/TimSort.cpp > CMakeFiles/22s_pa02_cullenw.dir/src/TimSort.cpp.i
-
-CMakeFiles/22s_pa02_cullenw.dir/src/TimSort.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/22s_pa02_cullenw.dir/src/TimSort.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/TimSort.cpp -o CMakeFiles/22s_pa02_cullenw.dir/src/TimSort.cpp.s
-
 # Object files for target 22s_pa02_cullenw
 22s_pa02_cullenw_OBJECTS = \
-"CMakeFiles/22s_pa02_cullenw.dir/src/main.cpp.o" \
-"CMakeFiles/22s_pa02_cullenw.dir/src/QuickSort.cpp.o" \
-"CMakeFiles/22s_pa02_cullenw.dir/src/InsertionSort.cpp.o" \
-"CMakeFiles/22s_pa02_cullenw.dir/src/MergeSort.cpp.o" \
-"CMakeFiles/22s_pa02_cullenw.dir/src/ShellSort.cpp.o" \
-"CMakeFiles/22s_pa02_cullenw.dir/src/IntroSort.cpp.o" \
-"CMakeFiles/22s_pa02_cullenw.dir/src/TimSort.cpp.o"
+"CMakeFiles/22s_pa02_cullenw.dir/src/main.cpp.o"
 
 # External object files for target 22s_pa02_cullenw
 22s_pa02_cullenw_EXTERNAL_OBJECTS =
 
 22s_pa02_cullenw: CMakeFiles/22s_pa02_cullenw.dir/src/main.cpp.o
-22s_pa02_cullenw: CMakeFiles/22s_pa02_cullenw.dir/src/QuickSort.cpp.o
-22s_pa02_cullenw: CMakeFiles/22s_pa02_cullenw.dir/src/InsertionSort.cpp.o
-22s_pa02_cullenw: CMakeFiles/22s_pa02_cullenw.dir/src/MergeSort.cpp.o
-22s_pa02_cullenw: CMakeFiles/22s_pa02_cullenw.dir/src/ShellSort.cpp.o
-22s_pa02_cullenw: CMakeFiles/22s_pa02_cullenw.dir/src/IntroSort.cpp.o
-22s_pa02_cullenw: CMakeFiles/22s_pa02_cullenw.dir/src/TimSort.cpp.o
 22s_pa02_cullenw: CMakeFiles/22s_pa02_cullenw.dir/build.make
 22s_pa02_cullenw: CMakeFiles/22s_pa02_cullenw.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable 22s_pa02_cullenw"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable 22s_pa02_cullenw"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/22s_pa02_cullenw.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

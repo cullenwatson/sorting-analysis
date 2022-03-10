@@ -82,40 +82,10 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/InsertionSort.cpp">
-			<Option target="22s_pa02_cullenw"/>
-		</Unit>
 		<Unit filename="/mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/InsertionSort.h">
 			<Option target="22s_pa02_cullenw"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/IntroSort.cpp">
-			<Option target="22s_pa02_cullenw"/>
-		</Unit>
-		<Unit filename="/mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/IntroSort.h">
-			<Option target="22s_pa02_cullenw"/>
-		</Unit>
-		<Unit filename="/mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/MergeSort.cpp">
-			<Option target="22s_pa02_cullenw"/>
-		</Unit>
-		<Unit filename="/mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/MergeSort.h">
-			<Option target="22s_pa02_cullenw"/>
-		</Unit>
-		<Unit filename="/mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/QuickSort.cpp">
-			<Option target="22s_pa02_cullenw"/>
-		</Unit>
 		<Unit filename="/mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/QuickSort.h">
-			<Option target="22s_pa02_cullenw"/>
-		</Unit>
-		<Unit filename="/mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/ShellSort.cpp">
-			<Option target="22s_pa02_cullenw"/>
-		</Unit>
-		<Unit filename="/mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/ShellSort.h">
-			<Option target="22s_pa02_cullenw"/>
-		</Unit>
-		<Unit filename="/mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/TimSort.cpp">
-			<Option target="22s_pa02_cullenw"/>
-		</Unit>
-		<Unit filename="/mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/TimSort.h">
 			<Option target="22s_pa02_cullenw"/>
 		</Unit>
 		<Unit filename="/mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/main.cpp">
