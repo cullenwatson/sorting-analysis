@@ -6,11 +6,25 @@
 
 #IncludeRegexTransform: 
 
-/mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/ShellSort.cpp
-ShellSort.h
-/mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/ShellSort.h
+/mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/InsertionSort.h
+Sort.h
+/mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/Sort.h
 
-/mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/ShellSort.h
+/mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/IntroSort.cpp
+IntroSort.h
+/mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/IntroSort.h
+iostream
+-
+
+/mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/IntroSort.h
+Sort.h
+/mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/Sort.h
+InsertionSort.h
+/mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/InsertionSort.h
+QuickSort.h
+/mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/QuickSort.h
+
+/mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/QuickSort.h
 Sort.h
 /mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/Sort.h
 

@@ -1,3 +1,7 @@
+/*
+ * guidance found at https://www.programiz.com/dsa/shell-sort
+ */
+
 #include "ShellSort.h"
 
 void ShellSort::sort(int a[], int size) {

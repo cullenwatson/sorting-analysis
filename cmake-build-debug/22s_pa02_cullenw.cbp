@@ -88,6 +88,12 @@
 		<Unit filename="/mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/InsertionSort.h">
 			<Option target="22s_pa02_cullenw"/>
 		</Unit>
+		<Unit filename="/mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/IntroSort.cpp">
+			<Option target="22s_pa02_cullenw"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/IntroSort.h">
+			<Option target="22s_pa02_cullenw"/>
+		</Unit>
 		<Unit filename="/mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/MergeSort.cpp">
 			<Option target="22s_pa02_cullenw"/>
 		</Unit>
