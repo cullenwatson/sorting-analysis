@@ -4,6 +4,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/22s_pa02_cullenw.dir/src/InsertionSort.cpp.o"
   "CMakeFiles/22s_pa02_cullenw.dir/src/MergeSort.cpp.o"
   "CMakeFiles/22s_pa02_cullenw.dir/src/QuickSort.cpp.o"
+  "CMakeFiles/22s_pa02_cullenw.dir/src/ShellSort.cpp.o"
   "CMakeFiles/22s_pa02_cullenw.dir/src/main.cpp.o"
 )
 

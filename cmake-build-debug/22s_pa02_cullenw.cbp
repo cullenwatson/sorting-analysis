@@ -100,6 +100,12 @@
 		<Unit filename="/mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/QuickSort.h">
 			<Option target="22s_pa02_cullenw"/>
 		</Unit>
+		<Unit filename="/mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/ShellSort.cpp">
+			<Option target="22s_pa02_cullenw"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/ShellSort.h">
+			<Option target="22s_pa02_cullenw"/>
+		</Unit>
 		<Unit filename="/mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/main.cpp">
 			<Option target="22s_pa02_cullenw"/>
 		</Unit>

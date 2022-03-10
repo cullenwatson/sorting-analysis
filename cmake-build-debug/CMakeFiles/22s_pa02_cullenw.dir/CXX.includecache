@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/MergeSort.cpp
-MergeSort.h
-/mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/MergeSort.h
+/mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/ShellSort.cpp
+ShellSort.h
+/mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/ShellSort.h
 
-/mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/MergeSort.h
+/mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/ShellSort.h
 Sort.h
 /mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/Sort.h
 
