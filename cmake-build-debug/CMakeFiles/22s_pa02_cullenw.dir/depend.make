@@ -5,11 +5,16 @@ CMakeFiles/22s_pa02_cullenw.dir/src/InsertionSort.cpp.o: ../src/InsertionSort.cp
 CMakeFiles/22s_pa02_cullenw.dir/src/InsertionSort.cpp.o: ../src/InsertionSort.h
 CMakeFiles/22s_pa02_cullenw.dir/src/InsertionSort.cpp.o: ../src/Sort.h
 
+CMakeFiles/22s_pa02_cullenw.dir/src/MergeSort.cpp.o: ../src/MergeSort.cpp
+CMakeFiles/22s_pa02_cullenw.dir/src/MergeSort.cpp.o: ../src/MergeSort.h
+CMakeFiles/22s_pa02_cullenw.dir/src/MergeSort.cpp.o: ../src/Sort.h
+
 CMakeFiles/22s_pa02_cullenw.dir/src/QuickSort.cpp.o: ../src/QuickSort.cpp
 CMakeFiles/22s_pa02_cullenw.dir/src/QuickSort.cpp.o: ../src/QuickSort.h
 CMakeFiles/22s_pa02_cullenw.dir/src/QuickSort.cpp.o: ../src/Sort.h
 
 CMakeFiles/22s_pa02_cullenw.dir/src/main.cpp.o: ../src/InsertionSort.h
+CMakeFiles/22s_pa02_cullenw.dir/src/main.cpp.o: ../src/MergeSort.h
 CMakeFiles/22s_pa02_cullenw.dir/src/main.cpp.o: ../src/QuickSort.h
 CMakeFiles/22s_pa02_cullenw.dir/src/main.cpp.o: ../src/Sort.h
 CMakeFiles/22s_pa02_cullenw.dir/src/main.cpp.o: ../src/main.cpp

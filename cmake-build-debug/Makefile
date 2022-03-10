@@ -150,6 +150,33 @@ src/InsertionSort.cpp.s:
 	$(MAKE) -f CMakeFiles/22s_pa02_cullenw.dir/build.make CMakeFiles/22s_pa02_cullenw.dir/src/InsertionSort.cpp.s
 .PHONY : src/InsertionSort.cpp.s
 
+src/MergeSort.o: src/MergeSort.cpp.o
+
+.PHONY : src/MergeSort.o
+
+# target to build an object file
+src/MergeSort.cpp.o:
+	$(MAKE) -f CMakeFiles/22s_pa02_cullenw.dir/build.make CMakeFiles/22s_pa02_cullenw.dir/src/MergeSort.cpp.o
+.PHONY : src/MergeSort.cpp.o
+
+src/MergeSort.i: src/MergeSort.cpp.i
+
+.PHONY : src/MergeSort.i
+
+# target to preprocess a source file
+src/MergeSort.cpp.i:
+	$(MAKE) -f CMakeFiles/22s_pa02_cullenw.dir/build.make CMakeFiles/22s_pa02_cullenw.dir/src/MergeSort.cpp.i
+.PHONY : src/MergeSort.cpp.i
+
+src/MergeSort.s: src/MergeSort.cpp.s
+
+.PHONY : src/MergeSort.s
+
+# target to generate assembly for a file
+src/MergeSort.cpp.s:
+	$(MAKE) -f CMakeFiles/22s_pa02_cullenw.dir/build.make CMakeFiles/22s_pa02_cullenw.dir/src/MergeSort.cpp.s
+.PHONY : src/MergeSort.cpp.s
+
 src/QuickSort.o: src/QuickSort.cpp.o
 
 .PHONY : src/QuickSort.o
@@ -216,6 +243,9 @@ help:
 	@echo "... src/InsertionSort.o"
 	@echo "... src/InsertionSort.i"
 	@echo "... src/InsertionSort.s"
+	@echo "... src/MergeSort.o"
+	@echo "... src/MergeSort.i"
+	@echo "... src/MergeSort.s"
 	@echo "... src/QuickSort.o"
 	@echo "... src/QuickSort.i"
 	@echo "... src/QuickSort.s"

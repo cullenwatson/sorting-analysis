@@ -2,6 +2,7 @@
 #include "Sort.h"
 #include "QuickSort.h"
 #include "InsertionSort.h"
+#include "MergeSort.h"
 using namespace std;
 
 void sortArrays();
@@ -28,6 +29,9 @@ void sortArrays(){
 
     //Sort* driver = new InsertionSort();
     ///driver->sort(unsorted, SIZE);
+
+    Sort* driver = new MergeSort();
+    driver->sort(unsorted, 0, SIZE - 1);
 
 
 

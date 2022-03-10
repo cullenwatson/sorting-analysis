@@ -6,23 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/InsertionSort.h
+/mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/MergeSort.cpp
+MergeSort.h
+/mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/MergeSort.h
+
+/mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/MergeSort.h
 Sort.h
 /mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/Sort.h
 
-/mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/QuickSort.h
-Sort.h
 /mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/Sort.h
-
-/mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/Sort.h
-
-/mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/main.cpp
-iostream
--
-Sort.h
-/mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/Sort.h
-QuickSort.h
-/mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/QuickSort.h
-InsertionSort.h
-/mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/InsertionSort.h
 
