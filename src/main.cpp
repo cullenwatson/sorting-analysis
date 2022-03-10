@@ -1,26 +1,40 @@
 #include <iostream>
-#include "Algo.h"
+#include "Sort.h"
+#include "QuickSort.h"
+#include "InsertionSort.h"
 using namespace std;
 
+void sortArrays();
 int main(int argc, char** argv) {
 
-    int* unsorted = new int[3];
+    sortArrays();
 
-    for(int i=0, j=3; i<3; i++, j--)
+    return 0;
+}
+
+void sortArrays(){
+    const int SIZE = 10;
+    int* unsorted = new int[SIZE];
+
+    for(int i=0, j=SIZE; i<SIZE; i++, j--)
         unsorted[i] = j;
 
     cout << "UNSORTED\n";
-    for(int i=0; i<3; i++)
+    for(int i=0; i<SIZE; i++)
         cout << unsorted[i] << endl;
 
-    Algo::quickSort(unsorted, 0, 2);
+    //Sort* driver = new QuickSort();
+    //driver->sort(unsorted, 0, SIZE-1);
+
+    //Sort* driver = new InsertionSort();
+    ///driver->sort(unsorted, SIZE);
+
+
 
     // sorted
     cout << "\nSORTED\n";
-    for(int i=0; i<3; i++)
+    for(int i=0; i<SIZE; i++)
         cout << unsorted[i] << endl;
-
-    return 0;
 }
 
 
