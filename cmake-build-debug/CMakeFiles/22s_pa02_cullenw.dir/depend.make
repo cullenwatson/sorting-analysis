@@ -23,11 +23,18 @@ CMakeFiles/22s_pa02_cullenw.dir/src/ShellSort.cpp.o: ../src/ShellSort.cpp
 CMakeFiles/22s_pa02_cullenw.dir/src/ShellSort.cpp.o: ../src/ShellSort.h
 CMakeFiles/22s_pa02_cullenw.dir/src/ShellSort.cpp.o: ../src/Sort.h
 
+CMakeFiles/22s_pa02_cullenw.dir/src/TimSort.cpp.o: ../src/InsertionSort.h
+CMakeFiles/22s_pa02_cullenw.dir/src/TimSort.cpp.o: ../src/MergeSort.h
+CMakeFiles/22s_pa02_cullenw.dir/src/TimSort.cpp.o: ../src/Sort.h
+CMakeFiles/22s_pa02_cullenw.dir/src/TimSort.cpp.o: ../src/TimSort.cpp
+CMakeFiles/22s_pa02_cullenw.dir/src/TimSort.cpp.o: ../src/TimSort.h
+
 CMakeFiles/22s_pa02_cullenw.dir/src/main.cpp.o: ../src/InsertionSort.h
 CMakeFiles/22s_pa02_cullenw.dir/src/main.cpp.o: ../src/IntroSort.h
 CMakeFiles/22s_pa02_cullenw.dir/src/main.cpp.o: ../src/MergeSort.h
 CMakeFiles/22s_pa02_cullenw.dir/src/main.cpp.o: ../src/QuickSort.h
 CMakeFiles/22s_pa02_cullenw.dir/src/main.cpp.o: ../src/ShellSort.h
 CMakeFiles/22s_pa02_cullenw.dir/src/main.cpp.o: ../src/Sort.h
+CMakeFiles/22s_pa02_cullenw.dir/src/main.cpp.o: ../src/TimSort.h
 CMakeFiles/22s_pa02_cullenw.dir/src/main.cpp.o: ../src/main.cpp
 

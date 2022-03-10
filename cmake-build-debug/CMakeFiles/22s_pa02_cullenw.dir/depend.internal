@@ -23,6 +23,12 @@ CMakeFiles/22s_pa02_cullenw.dir/src/ShellSort.cpp.o
  /mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/ShellSort.cpp
  /mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/ShellSort.h
  /mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/Sort.h
+CMakeFiles/22s_pa02_cullenw.dir/src/TimSort.cpp.o
+ /mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/InsertionSort.h
+ /mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/MergeSort.h
+ /mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/Sort.h
+ /mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/TimSort.cpp
+ /mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/TimSort.h
 CMakeFiles/22s_pa02_cullenw.dir/src/main.cpp.o
  /mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/InsertionSort.h
  /mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/IntroSort.h
@@ -30,4 +36,5 @@ CMakeFiles/22s_pa02_cullenw.dir/src/main.cpp.o
  /mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/QuickSort.h
  /mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/ShellSort.h
  /mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/Sort.h
+ /mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/TimSort.h
  /mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/main.cpp

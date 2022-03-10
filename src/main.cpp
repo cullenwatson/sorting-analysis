@@ -6,13 +6,14 @@
 #include "MergeSort.h"
 #include "ShellSort.h"
 #include "IntroSort.h"
+#include "TimSort.h"
 using namespace std;
 
 void sortArrays(Sort*);
 int main(int argc, char** argv) {
 
 
-    sortArrays(new InsertionSort());
+    sortArrays(new TimSort());
 
     return 0;
 }
@@ -31,10 +32,16 @@ void sortArrays(Sort* driver){
     // (QUICK/MERGE) driver->sort(unsorted, 0, SIZE-1);
     // (INSERTION/SHELL) driver->sort(unsorted, SIZE);
     //driver->sort(unsorted, 0, SIZE - 1);
-    int depth = log(SIZE) * 2;
 
-    IntroSort introSort;
-    introSort.sort(unsorted,0,SIZE-1,0);
+
+   // int depth = log(SIZE) * 2;
+//    IntroSort introSort;
+//    introSort.sort(unsorted,0,SIZE-1,0);
+
+    // tim sort
+    driver->sort(unsorted, SIZE);
+
+
     // sorted
     cout << "\nSORTED\n";
     for(int i=0; i<SIZE; i++)
