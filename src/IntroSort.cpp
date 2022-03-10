@@ -21,17 +21,17 @@ void IntroSort::sort(int *a, int l, int r, int depth) {
 
 }
 
-void IntroSort::heapSort(int arr[], int n) {
+void IntroSort::heapSort(int a[], int n) {
     // first build the heap
     for (int i = n / 2 - 1; i >= 0; i--)
-        heapify(arr, n, i);
+        heapify(a, n, i);
 
     // sort
     for (int i = n - 1; i >= 0; i--) {
-        IntroSort::swap(arr[0], arr[i]);
+        IntroSort::swap(a[0], a[i]);
 
         // heapify with root
-        heapify(arr, i, 0);
+        heapify(a, i, 0);
     }
 }
 void IntroSort::heapify(int a[], int n, int i) {

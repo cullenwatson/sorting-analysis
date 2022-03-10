@@ -258,6 +258,33 @@ src/ShellSort.cpp.s:
 	$(MAKE) -f CMakeFiles/22s_pa02_cullenw.dir/build.make CMakeFiles/22s_pa02_cullenw.dir/src/ShellSort.cpp.s
 .PHONY : src/ShellSort.cpp.s
 
+src/TimSort.o: src/TimSort.cpp.o
+
+.PHONY : src/TimSort.o
+
+# target to build an object file
+src/TimSort.cpp.o:
+	$(MAKE) -f CMakeFiles/22s_pa02_cullenw.dir/build.make CMakeFiles/22s_pa02_cullenw.dir/src/TimSort.cpp.o
+.PHONY : src/TimSort.cpp.o
+
+src/TimSort.i: src/TimSort.cpp.i
+
+.PHONY : src/TimSort.i
+
+# target to preprocess a source file
+src/TimSort.cpp.i:
+	$(MAKE) -f CMakeFiles/22s_pa02_cullenw.dir/build.make CMakeFiles/22s_pa02_cullenw.dir/src/TimSort.cpp.i
+.PHONY : src/TimSort.cpp.i
+
+src/TimSort.s: src/TimSort.cpp.s
+
+.PHONY : src/TimSort.s
+
+# target to generate assembly for a file
+src/TimSort.cpp.s:
+	$(MAKE) -f CMakeFiles/22s_pa02_cullenw.dir/build.make CMakeFiles/22s_pa02_cullenw.dir/src/TimSort.cpp.s
+.PHONY : src/TimSort.cpp.s
+
 src/main.o: src/main.cpp.o
 
 .PHONY : src/main.o
@@ -309,6 +336,9 @@ help:
 	@echo "... src/ShellSort.o"
 	@echo "... src/ShellSort.i"
 	@echo "... src/ShellSort.s"
+	@echo "... src/TimSort.o"
+	@echo "... src/TimSort.i"
+	@echo "... src/TimSort.s"
 	@echo "... src/main.o"
 	@echo "... src/main.i"
 	@echo "... src/main.s"
