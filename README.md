@@ -1,4 +1,4 @@
-**Sorting**
+**Sorting**<br>
 CS 3353 - Spring 2022 - Programming Assignment 02
 
 In this repo, I have implemented 6 sorting algorithms:
