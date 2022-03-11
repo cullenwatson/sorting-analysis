@@ -22,6 +22,8 @@ After implementing the algorithms, I collected data on each of them with string 
       
 Under each of these categories, I created 5 sizes of arrays for each. For the integers, I used sizes: 1k, 10k, 100k, 250k, 500k, 6000k. <br><br>
 For the strings, I used smaller datasets of 10, 100, 250, 500, 750, 1000. The string datasets (available in rawstringdata.txt) were generated using a python script that utilized a random string generator, while the integer datasets were created during runtime with the use of for loops and the rand() function.
+![image](https://user-images.githubusercontent.com/78247585/157801990-c4d66a2d-6749-4cc9-8636-ff204a0f371e.png)
+
 <br><br>
 
 <h2> Analysis</h2>
