@@ -34,7 +34,9 @@ On the randomized arrays, insertion sort overtook tim sort to be the slowest alg
 ![image](https://user-images.githubusercontent.com/78247585/157801589-d3ebbb3b-e4ea-403b-8d95-d38575d3f971.png)
 
 As the datasets grew very large, it was easy to spot the O(n^2) algorithms due to the very long wait times, including quicksort and insertion sort. For strings, it was harder to notice this disparity, as I was using smaller datasets but you could see the slight trend forming with insertion sort. This matches the algorithms published upper bounds except for my introsort. It is in O(n log n); however, my program would crash as the datasets became very large for this algorithm.<br><br>
-![image](https://user-images.githubusercontent.com/78247585/157801616-c9cc537e-5430-4f81-91be-36470c7e9da6.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/78247585/157801616-c9cc537e-5430-4f81-91be-36470c7e9da6.png"/>
+</p>
 
 <br><br>
 Overall, with the data I collected, there was no clear winner, as shellsort and mergesort were a close tie. They each performed near instant sorts on all the datasets. This corroborates with their complexity being in  O(n log(n)). 
