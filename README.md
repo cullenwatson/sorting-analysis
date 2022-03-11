@@ -37,7 +37,7 @@ As the datasets grew very large, it was easy to spot the O(n^2) algorithms due t
 ![image](https://user-images.githubusercontent.com/78247585/157801616-c9cc537e-5430-4f81-91be-36470c7e9da6.png)
 
 <br><br>
-As for the winner, with my results, there was no clear winner, as shellsort and mergesort were a close tie. They each performed near instant sorts on all the datasets. This corroborates with their complexity being in  O(n log(n)). 
+Overall, with the data I collected, there was no clear winner, as shellsort and mergesort were a close tie. They each performed near instant sorts on all the datasets. This corroborates with their complexity being in  O(n log(n)). 
 <br><br>
 ![image](https://user-images.githubusercontent.com/78247585/157801826-6f440817-33a2-462f-8b96-24c930af04e9.png)
 
