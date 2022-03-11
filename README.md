@@ -26,7 +26,6 @@ For the strings, I used smaller datasets of 10, 100, 250, 500, 750, 1000. The st
 
 <h2> Analysis</h2>
 The algos executed very quickly on the sorted arrays, except for the tim sort, which took 15 seconds on the 600k dataset for integers. As duplicates were introduced, the times decreased but the same trends were present just on a smaller scale. For example, for 60% sorted arrays, insertion sort and tim sort were the slowest by a factor of 20 or more.
-![image](https://user-images.githubusercontent.com/78247585/157801876-d5fd034e-7ac2-4eb6-90a6-7de0e6162321.png)
 
 <br><br> 
 On the randomized arrays, insertion sort overtook tim sort to be the slowest algorithm, and I even noticed some outliers, where it would perform worse with a smaller dataset. For example, for the 60% randomized arrays (int), on 500k elements, my insertion sort took 114 secs and only 0.001 seconds on 600k. In terms, of integers vs strings, the strings performed better, as I did not notice the outliers / spikes in performance like I saw with integers for tim sort and insertion sort.<br><br>
