@@ -19,6 +19,10 @@ IntroSort.h
 /mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/IntroSort.h
 TimSort.h
 /mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/TimSort.h
+string
+-
+chrono
+-
 
 /mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/InsertionSort.h
 
@@ -50,5 +54,7 @@ cmath
 Driver.h
 /mnt/c/Users/pc/Documents/GitHub/22s-pa02-cullenw/src/Driver.h
 string
+-
+chrono
 -
 

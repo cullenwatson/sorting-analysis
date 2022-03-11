@@ -2,32 +2,36 @@
 #include <cmath>
 #include "Driver.h"
 #include <string>
+#include <chrono>
 using namespace std;
+using namespace chrono;
 
-void sortArrays();
+
 void outputArray(string a[], int size);
-int main(int argc, char** argv) {
+void outputArray(int a[], int size);
+double getTime(time_point<high_resolution_clock> start, time_point<high_resolution_clock> end);
 
-    sortArrays();
+
+
+int main() {
+
+    //Driver<int> driver;
+   // driver.sort60PercentRandomIntArrays();
+
+//
+    Driver<string> driver2;
+    driver2.sortArraysString();
 
     return 0;
 }
 
-void sortArrays(){
-    const int SIZE = 5;
-    string array[SIZE] = {"z", "y", "x", "w","v"};
 
-    cout << "UNSORTED\n";
-    outputArray(array, SIZE);
-
-    Driver<string> driver;
-    driver.timSort(array, SIZE);
-
-    // sorted
-    cout << "\nSORTED\n";
-    outputArray(array, SIZE);
-}
 void outputArray(string a[], int size){
+    for(int i=0; i<size; i++){
+        cout<<a[i]<<endl;
+    }
+}
+void outputArray(int a[], int size){
     for(int i=0; i<size; i++){
         cout<<a[i]<<endl;
     }
