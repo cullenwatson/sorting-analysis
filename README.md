@@ -1,4 +1,4 @@
-<h1>Sorting</h1><
+<h1>Sorting</h1>
 CS 3353 - Spring 2022 - Programming Assignment 02
 
 <h2>Description</h2>
