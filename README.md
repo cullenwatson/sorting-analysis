@@ -30,5 +30,5 @@ The algos executed very quickly on the sorted arrays, except for the tim sort, w
 As the datasets grew very large, it was easy to spot the O(n^2) algorithms due to the very long wait times, including quicksort and insertion sort. For strings, it was harder to notice this disparity, as I was using smaller datasets but you could see the slight trend forming with insertion sort. This matches the algorithms published upper bounds except for my introsort. It has a O(n log n) but my program would crash as the datasets became very large so I could not confirm. 
 <br><br>
 As for the winner, with my results, there was no clear winner, as shellsort and mergesort were a close tie. They each performed near instant sorts on all the datasets. This corroborates with their complexity being in  O(n log(n)). 
-
+<br><br>
 ** note raw data and graphs are in the excel file
